@@ -8,7 +8,7 @@ The patients who have a higher probability can be prioritized to have a checkup 
 
 ## Dataset
 
-The dataset used in this project is **randomly generated** and hence the predictions are **not accurate**. Using an actual dataset with real date involving affected patients will generate much better results.
+The dataset used in this project is **randomly generated** and hence the predictions are **not accurate**. Using an actual dataset with real data involving affected patients will generate much better results.
 
 ##  Run it!
 
